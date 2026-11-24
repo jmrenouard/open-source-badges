@@ -1,275 +1,266 @@
-# Open Source & Licences Badges [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Open Source & License Badges
 
-Badges to show your love for Open Source and the Community.  
+Badges to show your support for Open Source and document project licensing cleanly in repository READMEs.
 
-### OpenSource Badges
+See [Documentation Index](docs/index.md) for guided tutorials, ASD-STE100 procedures, full asset specs, and design notes.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)   
+## Quick Gallery
 
-### Licence Badges
+### Open Source Badges (`120x20px` default)
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
+[![Open Source Love v1](badges/open-source-v1/open-source.svg)](https://github.com/jmrenouard/open-source-badges) [![Open Source Love v2](badges/open-source-v2/open-source.svg)](https://github.com/jmrenouard/open-source-badges) [![Open Source Love v3](badges/open-source-v3/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
 
----
+### License Badges (`100x20px` SVG / `90x20px` PNG)
 
-You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) for Web Developers.  
+[![MIT License](badges/licence-mit/mit.svg)](https://opensource.org/licenses/MIT) [![GPL License](badges/licence-gpl/gpl.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=103)](https://github.com/ellerbrock/typescript-badges/)  
+### Showcase Banner (`1000x789px`)
 
----
+[![Open Source Showcase Banner](badges/info/open-source-badge.png)](https://github.com/jmrenouard/open-source-badges)
 
-# Open Source v1
+## Badge Selection Flow
 
-## SVG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-## PNG in different sizes
-
-Default Size: 120x20px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-
-Size: 150x22px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-Size: 175x29px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-Size: 200x33px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-# Open Source v2
-
-## SVG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-
-## PNG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-## PNG in different sizes
-
-Size: 150x22px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-Size: 175x29px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-Size: 200x33px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-# Open Source v3
-
-## SVG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-
-## PNG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-## PNG in different sizes
-
-Size: 150x22px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-Size: 175x29px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-Size: 200x33px
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-```  
-
-# MIT Licence
-
-## SVG
-Default Size: 90x20px  
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
-
-```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
-```  
-
-
-## PNG
-Default Size: 120x20px  
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-
-```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-```  
-
-## PNG in different sizes
-
-Size: 125x28px
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-
-```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-```  
-
-Size: 150x33px
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-
-```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-```  
-
-Size: 175x39px
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=103)](https://opensource.org/licenses/mit-license.php)  
-
-```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=103)](https://opensource.org/licenses/mit-license.php)
-```  
-
-# GPL Licence
-
-## SVG
-Default Size: 90x20px  
-
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-
-```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-```  
-
-
-## PNG
-Default Size: 120x20px  
-
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-
-```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-```  
-
-## PNG in different sizes
-
-Size: 125x28px
-
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-
-```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=103)](https://opensource.org/licenses/GPL-3.0/)    
-```  
-
-Size: 150x33px
-
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-
-```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)    
-```  
-
-Size: 175x39px
-
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
-
-```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://opensource.org/licenses/GPL-3.0/)   
+```mermaid
+flowchart LR
+  Start["Select Badge Goal"] -->|"Show open-source support"| Theme["Pick Theme: v1 / v2 / v3"]
+  Start -->|"Display project license"| Lic["Pick License: MIT / GPL"]
+  Start -->|"Header showcase graphic"| Banner["badges/info/open-source-badge.png (1000x789)"]
+  Theme -->|"Crisp retina / GitHub README"| VSVG["SVG (120x20)"]
+  Theme -->|"Fixed pixel UI / email"| VPNG["PNG (120x20, 150x25, 175x29, 200x33)"]
+  Lic -->|"Vector badge"| LSVG["SVG (100x20)"]
+  Lic -->|"Raster badge"| LPNG["PNG (90x20 to 175x39 / 200x44 MIT)"]
 ```
 
-### Contact / Social Media
+## Open Source v1
 
-*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
+### SVG (`120x20px`)
 
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/frapsoft/)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/frapsoft/)
-[![Google+](https://github.frapsoft.com/social/google-plus.png)](https://plus.google.com/116540931335841862774)
-[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
+[![Open Source Love v1 SVG](badges/open-source-v1/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
 
-### Development by 
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v1/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
+```
 
-Developer / Author: [Maik Ellerbrock](https://github.com/ellerbrock/)  
-Company: [Frapsoft](https://github.com/frapsoft/)
+### PNG (`120x20px`, `150x25px`, `175x29px`, `200x33px`)
 
+Default size (`120x20px`):
 
-### License 
+[![Open Source Love v1 120x20](badges/open-source-v1/open-source.png)](https://github.com/jmrenouard/open-source-badges)
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v1/open-source.png)](https://github.com/jmrenouard/open-source-badges)
+```
 
-This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ellerbrock/" property="cc:attributionName" rel="cc:attributionURL">Maik Ellerbrock</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+Size `150x25px`:
+
+[![Open Source Love v1 150x25](badges/open-source-v1/open-source-150x25.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v1/open-source-150x25.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `175x29px`:
+
+[![Open Source Love v1 175x29](badges/open-source-v1/open-source-175x29.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v1/open-source-175x29.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `200x33px`:
+
+[![Open Source Love v1 200x33](badges/open-source-v1/open-source-200x33.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v1/open-source-200x33.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+## Open Source v2
+
+### SVG (`120x20px`)
+
+[![Open Source Love v2 SVG](badges/open-source-v2/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v2/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
+```
+
+### PNG (`120x20px`, `150x25px`, `175x29px`, `200x33px`)
+
+Default size (`120x20px`):
+
+[![Open Source Love v2 120x20](badges/open-source-v2/open-source.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v2/open-source.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `150x25px`:
+
+[![Open Source Love v2 150x25](badges/open-source-v2/open-source-150x25.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v2/open-source-150x25.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `175x29px`:
+
+[![Open Source Love v2 175x29](badges/open-source-v2/open-source-175x29.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v2/open-source-175x29.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `200x33px`:
+
+[![Open Source Love v2 200x33](badges/open-source-v2/open-source-200x33.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v2/open-source-200x33.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+## Open Source v3
+
+### SVG (`120x20px`)
+
+[![Open Source Love v3 SVG](badges/open-source-v3/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v3/open-source.svg)](https://github.com/jmrenouard/open-source-badges)
+```
+
+### PNG (`120x20px`, `150x25px`, `175x29px`, `200x33px`)
+
+Default size (`120x20px`):
+
+[![Open Source Love v3 120x20](badges/open-source-v3/open-source.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v3/open-source.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `150x25px`:
+
+[![Open Source Love v3 150x25](badges/open-source-v3/open-source-150x25.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v3/open-source-150x25.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `175x29px`:
+
+[![Open Source Love v3 175x29](badges/open-source-v3/open-source-175x29.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v3/open-source-175x29.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+Size `200x33px`:
+
+[![Open Source Love v3 200x33](badges/open-source-v3/open-source-200x33.png)](https://github.com/jmrenouard/open-source-badges)
+
+```markdown
+[![Open Source Love](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/open-source-v3/open-source-200x33.png)](https://github.com/jmrenouard/open-source-badges)
+```
+
+## MIT License Badge
+
+### SVG (`100x20px`)
+
+[![MIT License SVG](badges/licence-mit/mit.svg)](https://opensource.org/licenses/MIT)
+
+```markdown
+[![MIT License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-mit/mit.svg)](https://opensource.org/licenses/MIT)
+```
+
+### PNG (`90x20px`, `125x28px`, `150x33px`, `175x39px`, `200x44px`)
+
+Default size (`90x20px`):
+
+[![MIT License 90x20](badges/licence-mit/mit.png)](https://opensource.org/licenses/MIT)
+
+```markdown
+[![MIT License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-mit/mit.png)](https://opensource.org/licenses/MIT)
+```
+
+Size `125x28px`:
+
+[![MIT License 125x28](badges/licence-mit/mit-125x28.png)](https://opensource.org/licenses/MIT)
+
+```markdown
+[![MIT License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-mit/mit-125x28.png)](https://opensource.org/licenses/MIT)
+```
+
+Size `150x33px`:
+
+[![MIT License 150x33](badges/licence-mit/mit-150x33.png)](https://opensource.org/licenses/MIT)
+
+```markdown
+[![MIT License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-mit/mit-150x33.png)](https://opensource.org/licenses/MIT)
+```
+
+Size `175x39px`:
+
+[![MIT License 175x39](badges/licence-mit/mit-175x39.png)](https://opensource.org/licenses/MIT)
+
+```markdown
+[![MIT License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-mit/mit-175x39.png)](https://opensource.org/licenses/MIT)
+```
+
+Size `200x44px`:
+
+[![MIT License 200x44](badges/licence-mit/mit-200x44.png)](https://opensource.org/licenses/MIT)
+
+```markdown
+[![MIT License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-mit/mit-200x44.png)](https://opensource.org/licenses/MIT)
+```
+
+## GPL License Badge
+
+### SVG (`100x20px`)
+
+[![GPL License SVG](badges/licence-gpl/gpl.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+```markdown
+[![GPL License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-gpl/gpl.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+```
+
+### PNG (`90x20px`, `125x28px`, `150x33px`, `175x39px`)
+
+Default size (`90x20px`):
+
+[![GPL License 90x20](badges/licence-gpl/gpl.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+```markdown
+[![GPL License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-gpl/gpl.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+```
+
+Size `125x28px`:
+
+[![GPL License 125x28](badges/licence-gpl/gpl-125x28.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+```markdown
+[![GPL License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-gpl/gpl-125x28.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+```
+
+Size `150x33px`:
+
+[![GPL License 150x33](badges/licence-gpl/gpl-150x33.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+```markdown
+[![GPL License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-gpl/gpl-150x33.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+```
+
+Size `175x39px`:
+
+[![GPL License 175x39](badges/licence-gpl/gpl-175x39.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+```markdown
+[![GPL License](https://raw.githubusercontent.com/jmrenouard/open-source-badges/master/badges/licence-gpl/gpl-175x39.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+```
+
+## Development & License
+
+- Original author: [Maik Ellerbrock](https://github.com/ellerbrock/) ([Frapsoft](https://github.com/frapsoft/))
+- Fork maintainer: `jmrenouard/open-source-badges`
+- License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (full text in [LICENCE](LICENCE)).
